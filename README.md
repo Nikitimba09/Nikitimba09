@@ -32,7 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitimba09&show_icons=true&locale=en&layout=compact" alt="nikitimba09" /></p>
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/nikitimba09/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitimba09&" alt="nikitimba09" /></p>
 
