@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitimba09&" alt="nikitimba09" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitimba09)](https://github.com/anuraghazra/github-readme-stats)
+[![codewars](https://www.codewars.com/users/Nikitimba/badges/large)](https://www.codewars.com/users/Nikitimba)
