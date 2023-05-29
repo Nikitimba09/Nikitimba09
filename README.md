@@ -35,5 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitimba09&show_icons=true&locale=en" alt="nikitimba09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitimba09&" alt="nikitimba09" /></p>
-
+<h3 align="left">Codewars</h3>
 [![codewars](https://www.codewars.com/users/Nikitimba/badges/large)](https://www.codewars.com/users/Nikitimba)
