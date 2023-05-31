@@ -41,4 +41,4 @@
 
 [![codewars](https://www.codewars.com/users/Nikitimba/badges/large)](https://www.codewars.com/users/Nikitimba)
 
-
+<img src="./github-user-contribution.svg">
