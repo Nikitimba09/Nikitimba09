@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita, 19 y.o ¯\_(ツ)_/¯</h1>
+<h1 align="center">Hi 👋, I'm Nikita, 20 y.o ¯\_(ツ)_/¯</h1>
 <h3 align="center">Python Web Developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitimba09&label=Profile%20views&color=0e75b6&style=flat" alt="nikitimba09" /> </p>
