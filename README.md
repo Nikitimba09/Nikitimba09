@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitimba09" alt="nikitimba09" /></a> </p>
 
-- 🔭 I’m currently working on [Django-store](https://github.com/Nikitimba09/Django-store)
-
 - 🌱 I’m currently learning **Django, FastAPI, JS, React.js, Celery, Redis and etc.**
 
 - 👯 I’m looking to collaborate on [Mail.ru](https://mail.ru/)
