@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikitimba09" alt="nikitimba09" /></a> </p>
 
-- 🌱 I’m currently learning **Django, FastAPI, JS, React.js, Celery, Redis and etc.**
+- 🌱 I’m currently learning **Information security**
 
-- 👯 I’m looking to collaborate on [Mail.ru](https://mail.ru/)
+- 👯 I’m looking to collaborate on [T-bank.ru](https://tbank.ru/)
 
 - 🤝 I’m looking for help with [Stackoverflow](https://stackoverflow.com/)
 
